@@ -2,6 +2,8 @@
 
 Instructions
 
+Play the game at https://salonievyas26.github.io/saloniearcadegame/
+
 1. Load the index.html file into your browser and enjoy the game.
 2. Try and avoid the boy as if you both collide , the game will be reset.
 3. If you reach the water, you have won the game.
