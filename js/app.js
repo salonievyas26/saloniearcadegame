@@ -92,9 +92,9 @@ Player.prototype.handleInput = function(keyPress)
 // Place the player object in a variable called player
 
 var allEnemies=[];
-var location = [63, 147, 230];
+var enemylocation = [63, 147, 230];
 
-location.forEach(function (locationY) {
+enemylocation.forEach(function (locationY) {
     enemy = new Enemy(0, locationY, 200);
     allEnemies.push(enemy);
 });
